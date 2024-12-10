@@ -50,8 +50,9 @@ sections:
     subtitle: We deliver everywhere you want and need to be.
     images:
       - type: ImageBlock
-        url: /images/logo1.svg
-        altText: logo one
+        url: >-
+          https://assets.stackbit.com/components/images/default/default-image.png
+        altText: altText of the image
         caption: Caption of the image
         elementId: ''
       - type: ImageBlock
