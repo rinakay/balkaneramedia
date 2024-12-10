@@ -86,7 +86,7 @@ sections:
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
-    title: "LET'S TALK\U0001F4AC The stage is set, and the time is now. Let's team up and channel our expertise to create a winning synergy that surpasses all expectations.Get Started"
+    title: "LET'S TALK \U0001F4AC "
     form:
       type: FormBlock
       elementId: sign-up-form
