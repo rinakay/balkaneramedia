@@ -19,9 +19,7 @@ sections:
       today's competitive audio-visual landscape.
 
 
-      ## **<sub>Balkan Era Media</sub>**<sub> is changing the industry and
-      shifting the advantage from the major labels to the individual artists and
-      creators, putting them in control of their own destiny.</sub>
+      ## <sub></sub><sub></sub>
 
     media:
       type: ImageBlock
