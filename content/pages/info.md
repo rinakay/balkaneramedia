@@ -13,11 +13,22 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >+
+      We are reinventing **audio-visual content distribution**. Our expertise
+      and extensive tools provide you with what is necessary to stand out in
+      today's competitive audio-visual landscape.
+
+
+      **Balkan Era Media** is changing the industry and shifting the advantage
+      from the major labels to the individual artists and creators, putting them
+      in control of their own destiny.
+
+      ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
     media:
       type: ImageBlock
       url: /images/about.jpg
