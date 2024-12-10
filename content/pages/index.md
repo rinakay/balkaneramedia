@@ -14,7 +14,10 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: 'We''re not just a media company, we empower independence '
-    subtitle: BALKAN ERA MEDIA
+    subtitle: >-
+      Ignite your music and content with Balkan Era Media's revolutionary
+      technology driven platform. Set your creativity free and expand your reach
+      across the globe with Balkan Era Media!
     styles:
       self:
         height: auto
