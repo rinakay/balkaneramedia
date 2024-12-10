@@ -48,7 +48,7 @@ sections:
       - type: Button
         label: GET STARTED
         altText: ''
-        url: /getstarted
+        url: /contact
         showIcon: false
         icon: arrowRight
         iconPosition: right
