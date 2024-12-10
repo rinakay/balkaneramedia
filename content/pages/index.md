@@ -47,7 +47,7 @@ sections:
     actions: []
   - type: MediaGallerySection
     title: ''
-    subtitle: This is the subtitle
+    subtitle: We deliver everywhere you want and need to be.
     images:
       - type: ImageBlock
         url: /images/logo1.svg
