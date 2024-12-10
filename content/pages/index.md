@@ -46,7 +46,7 @@ sections:
     type: HeroSection
     actions:
       - type: Button
-        label: Learn more
+        label: GET STARTED
         altText: ''
         url: /getstarted
         showIcon: false
