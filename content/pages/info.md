@@ -71,7 +71,7 @@ sections:
         borderStyle: solid
   - type: MediaGallerySection
     colors: colors-f
-    subtitle: 'I worked with these folks:'
+    subtitle: We deliver everywhere you want and need to be.
     images:
       - type: ImageBlock
         url: /images/logo1.svg
