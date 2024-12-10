@@ -46,6 +46,7 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
+    title: About Us
   - type: DividerSection
     styles:
       self:
