@@ -50,8 +50,7 @@ sections:
     subtitle: We deliver everywhere you want and need to be.
     images:
       - type: ImageBlock
-        url: >-
-          https://assets.stackbit.com/components/images/default/default-image.png
+        url: /images/spotify.0f9a6ba.png
         altText: altText of the image
         caption: Caption of the image
         elementId: ''
